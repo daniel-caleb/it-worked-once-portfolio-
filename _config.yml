@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Daniel-Caleb's Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  A personal portfolio for Daniel-Caleb Cheruiyot, showcasing my work and skills in software development, cloud computing, and cybersecurity.
+email:
+twitter_username: marissacaleb0
+github_username: daniel-caleb
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Daniel-Caleb Cheruiyot"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Certified Cloud Practitioner | Full Stack Software Developer | Cybersecurity Enthusiast"
+  bio    : "Cloud Practitioner, Software Developer, Cybersecurity Enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,7 +71,7 @@ author:
       url: "https://github.com/daniel-caleb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/dannycaleb/"
 
 footer:
   links:
