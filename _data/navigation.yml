@@ -2,7 +2,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Labs"
-    permalink: /labs/
+    url: /labs/
   - title: "Projects"
     url: /projects/
   - title: "About"
