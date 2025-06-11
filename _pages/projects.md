@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 🚀 Projects Portfolio
+# 🚀Projects Portfolio
 
 Welcome to my curated list of selected projects, a blend of completed milestones and ongoing efforts that reflect my passion for technology, cloud computing, cybersecurity, and real-world problem solving.
 
