@@ -6,8 +6,6 @@ layout: home
 author_profile: true
 ---
 
-# Curriculum Vitae – Daniel-Caleb Cheruiyot
-
 ## 💼 Professional Experience
 
 **AWS Cloud Practictioner Trainee**, eMobilis Training Technology Training Institute  
