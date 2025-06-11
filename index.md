@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 **AWS Cloud Practictioner Trainee**, eMobilis Training Technology Training Institute  
 
