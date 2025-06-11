@@ -1,8 +1,6 @@
 ---
 title: "Labs"
 permalink: /labs/
-layout: page
-author_profile: true
 ---
 
 # Labs

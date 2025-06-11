@@ -1,7 +1,6 @@
 ---
-permalink: /projects.md/
 title: "Projects"
-layout: single
+permalink: /projects/
 ---
 
 # 🚀 Projects Portfolio
