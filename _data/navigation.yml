@@ -1,6 +1,6 @@
 main:
-  - title: "Projects🧑‍💻"
-    url: /projects/
+  - title: "Projects"
+    url: projects.md
   - title: "Categories"
     url: /categories/
   - title: "Tags"
