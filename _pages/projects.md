@@ -1,6 +1,7 @@
 ---
 permalink: /projects.md/
 title: "Projects"
+layout: single
 ---
 
 # 🚀 Projects Portfolio

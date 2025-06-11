@@ -1,3 +1,10 @@
+---
+title: "Labs"
+permalink: /labs/
+layout: page
+author_profile: true
+---
+
 # Labs
 
 Welcome to the Labs section! Here, you can explore various challenges and projects designed to enhance your skills and knowledge. Dive into the topics below and start experimenting.
