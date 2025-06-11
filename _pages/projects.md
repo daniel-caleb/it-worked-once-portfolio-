@@ -10,6 +10,7 @@ Welcome to my curated list of selected projects, a blend of completed milestones
 The [AWS Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a hands-on project designed to showcase cloud skills by building and deploying a resume website using various AWS services. The challenge involves creating a resume in HTML and CSS, hosting it as a static website on Amazon S3, securing it with HTTPS via CloudFront, and linking it to a custom domain. Additionally, it includes setting up a visitor counter using JavaScript, DynamoDB, and a serverless API with AWS Lambda and API Gateway. The project also emphasizes automation with Infrastructure as Code (IaC) tools like AWS SAM or Terraform, and continuous integration and deployment (CI/CD) via GitHub Actions. This challenge is a comprehensive way to demonstrate proficiency in cloud technologies and best practices in a real-world scenario
 
 **Highlights:**  
+
 - ***Quick File Upload***: Upload files to a specified S3 bucket with a single command.
 - ***Target Directory Support***: Optionally specify a target directory within the S3 bucket.
 - ***Error Handling***: Provides meaningful error messages for incorrect or missing inputs.
@@ -30,6 +31,7 @@ AWS S3, AWS Lambda, Dynamo DB, GitHub Actions
 A Bash-based command-line tool that allows users to securely and quickly upload files to AWS S3 buckets. Designed to provide a seamless experience similar to popular cloud storage platforms.
 
 **Highlights:**  
+
 - ***Quick File Upload***: Upload files to a specified S3 bucket with a single command.
 - ***Target Directory Support***: Optionally specify a target directory within the S3 bucket.
 - ***Error Handling***: Provides meaningful error messages for incorrect or missing inputs.
@@ -70,6 +72,7 @@ Java, Kotlin, Android Studio, MVC Architecture, XML Layout for UI Design
 A crowdsourced cyber threat intelligence reporting platform that allows individuals and organizations to report cyber incidents and view trends. Intended to enhance cyber awareness and early warnings, especially within Kenya and similar contexts.
 
 **Highlights:**  
+
 - User authentication and report submission dashboard  
 - Real-time threat mapping and categorization  
 - Admin panel for review and response coordination  
@@ -88,6 +91,7 @@ PHP (Laravel), MySQL, JavaScript, AWS (EC2, RDS), Bootstrap
 An agricultural knowledge-sharing and blog platform for Kenyan farmers, including paid content on best practices and a forum for peer advice. The project also explores monetization for agritech content creators.
 
 **Highlights:**  
+
 - Blog system with categorization and premium content  
 - Secure payment integration for content access  
 - AWS-hosted with domain-linked EC2 instance  
