@@ -10,17 +10,17 @@ author_profile: true
 
 **AWS Cloud Practictioner Trainee**, eMobilis Training Technology Training Institute  
 
-🗹 Gained proficiency in setting up and managing S3 buckets, configuring bucket policies, and using S3 for scalable and secure object storage solutions.
-🗹 Learned to deploy, manage, and scale relational databases in the cloud. Worked on labs involving database backups, snapshots, and security configurations.
-🗹 Acquired hands-on experience in launching, configuring, and managing EC2 instances. Practiced creating security groups, key pairs, and setting up load balancers for high availability.
-🗹 Projects and Labs: Designed and Implemented a fully elastic Apache Web Server solution using a VPC, public and private subnets, elastic load balancer, ec2 auto-scaling, Nat- gateway and internet gateway. Configuring the security group to control access to the resources and the Network access control list (NaCl) to control traffic in and out of the VPC and subnets.
+- 🗹 Gained proficiency in setting up and managing S3 buckets, configuring bucket policies, and using S3 for scalable and secure object storage solutions.
+- 🗹 Learned to deploy, manage, and scale relational databases in the cloud. Worked on labs involving database backups, snapshots, and security configurations.
+- 🗹 Acquired hands-on experience in launching, configuring, and managing EC2 instances. Practiced creating security groups, key pairs, and setting up load balancers for high availability.
+- 🗹 Projects and Labs: Designed and Implemented a fully elastic Apache Web Server solution using a VPC, public and private subnets, elastic load balancer, ec2 auto-scaling, Nat- gateway and internet gateway. Configuring the security group to control access to the resources and the Network access control list (NaCl) to control traffic in and out of the VPC and subnets.
 
 **Software Developer Intern**, FRS Africa
 
-🗹 Developed and optimized web scraping scripts using Django and Beautiful Soup/Scrapy to collect structured data from various sources.
-🗹 Designed and implemented RESTful APIs to integrate scraped data into internal applications.
-🗹 Contributed to backend development tasks, including database management and API documentation.
-🗹 Collaborated with a team of developers to enhance data integrity and security.  
+- 🗹 Developed and optimized web scraping scripts using Django and Beautiful Soup/Scrapy to collect structured data from various sources.
+- 🗹 Designed and implemented RESTful APIs to integrate scraped data into internal applications.
+- 🗹 Contributed to backend development tasks, including database management and API documentation.
+- 🗹 Collaborated with a team of developers to enhance data integrity and security.  
 
 ---
 
