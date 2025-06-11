@@ -50,7 +50,7 @@ You can view my badges available on [Credly](https://www.credly.com/users/daniel
 
 ---
 
-## 👩‍🏫 Academic Experience
+## 👷Skills
 
 **Networking**
 TCP/IP, Network Security, Network Infrastructure,Setting up, configuration and
