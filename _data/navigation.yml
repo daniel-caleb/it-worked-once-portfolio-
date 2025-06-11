@@ -1,6 +1,9 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: Labs
+    layout: page
+    permalink: /labs/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
