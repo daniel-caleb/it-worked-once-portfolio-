@@ -1,3 +1,12 @@
+---
+title: "Lab Challenges: Metasploitable"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+---
+
 # Labs
 
 Welcome to the Labs section! Here, you can explore various challenges and projects designed to enhance your skills and knowledge. Dive into the topics below and start experimenting.
