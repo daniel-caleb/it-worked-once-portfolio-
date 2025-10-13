@@ -1,0 +1,48 @@
+******************************************************************************
+*________              _____     ______     _________      ______    ______  *
+*___  __ \_____ __________(_)_______  /     __  ____/_____ ___  /_______  /_ *
+*__  / / /  __ `/_  __ \_  /_  _ \_  /_______  /    _  __ `/_  /_  _ \_  __ \*
+*_  /_/ // /_/ /_  / / /  / /  __/  /_/_____/ /___  / /_/ /_  / /  __/  /_/ /*
+*/_____/ \__,_/ /_/ /_//_/  \___//_/        \____/  \__,_/ /_/  \___//_.___/ *
+*                                                                            *
+*________                   ______ ______                                    *
+*___  __ \_____________________  /____  /                                    *
+*__  /_/ /  __ \_  __ \  __ \_  __ \_  /                                     *
+*_  _, _// /_/ /  / / / /_/ /  / / //_/                                      *
+*/_/ |_| \____//_/ /_/\____//_/ /_/(_)                                       *
+******************************************************************************                                                                                                          
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Cloud Support Associate | デザイナー
+
+Daniel-Caleb Ronoh
+Aspiring Cloud & Security Systems Engineer with hands-on experience in virtualization, Azure security, and infrastructure support.
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/marissacaleb0
+github.com/daniel-caleb
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8

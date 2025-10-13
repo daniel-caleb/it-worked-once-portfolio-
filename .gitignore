@@ -1,4 +1,11 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+node_modules
+
+/.cache
+/build
+.env
+
+.wrangler
+.dev.vars
+
+public/draco
+storybook-static

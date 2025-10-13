@@ -1,9 +1,0 @@
-main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Labs"
-    url: /labs/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
